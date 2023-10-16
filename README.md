@@ -22,20 +22,20 @@ A dense neural network model was implemented with ReLU and sigmoid as activation
 The cutoff value for classification was set at 0.50.
 - **Train AUC:** 0.99
   
-  ![Train accuracy before applying SMOTE](./ROC_train_title.PNG)
+  ![Train accuracy before applying SMOTE](./images//ROC_train_title.PNG)
   <br><br> <!-- Adding line breaks for spacing -->
   
 - **Test AUC:** 0.96
-  ![Train accuracy before applying SMOTE](./ROC_test_title.PNG)
+  ![Train accuracy before applying SMOTE](./images/ROC_test_title.PNG)
   <br><br> <!-- Adding line breaks for spacing -->
   
 - **Train Accuracy:** 98%
   
-  ![Train accuracy before applying SMOTE](./conf_embed_traon.PNG)
+  ![Train accuracy before applying SMOTE](./images/conf_embed_traon.PNG)
   <br><br> <!-- Adding line breaks for spacing -->
   
 - **Test Accuracy:** 96.5%
-  ![Train accuracy before applying SMOTE](./conf_embed_test.PNG)
+  ![Train accuracy before applying SMOTE](./images/conf_embed_test.PNG)
    <br><br> <!-- Adding line breaks for spacing -->
 
 These results indicate robust performance of the spam classifier on both the training and test sets.
